@@ -1,0 +1,21 @@
+{
+  "name": "google-search-api",
+  "version": "0.0.1",
+  "description": "Google search crawler returning json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "search",
+    "api"
+  ],
+  "author": "Cüneyt Aliustaoğlu",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.2.1",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}
